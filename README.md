@@ -114,7 +114,7 @@ This project is distributed under the **MIT License**, allowing unrestricted use
 
 ## **10. Acknowledgment**
 
-Project Horizon was developed under the **Security Engineering & Research (SER)** division of **Gardiyan Labs** as part of the *Open-Source Enterprise Zero Trust Program*.  
+Project Horizon was developed under the **Security Engineering & Research (SER)** as part of the *Open-Source Enterprise Zero Trust Program*.  
 The project demonstrates that **cost-neutral cybersecurity maturity** can be achieved through transparency, collaboration, and engineering excellence.
 
 ---
