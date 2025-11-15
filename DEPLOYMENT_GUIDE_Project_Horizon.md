@@ -1,6 +1,7 @@
 # Project Horizon – Unified Zero Trust Security & Operations Platform
 
-![Architecture](ad3836aa-0c73-4845-9a05-3289a58f1fce.png)
+![Architecture]<img width="2550" height="2274" alt="MAIN - Horizon" src="https://github.com/user-attachments/assets/986351be-8f66-443a-9501-731e30be4dc1" />
+
 
 ---
 
