@@ -106,13 +106,7 @@ For detailed roadmap progression, refer to `/docs/business/roadmap.md`.
 
 ---
 
-## **9. Licensing**
-
-This project is distributed under the **MIT License**, allowing unrestricted use, modification, and distribution while maintaining author attribution.
-
----
-
-## **10. Acknowledgment**
+## **9. Acknowledgment**
 
 Project Horizon was developed under the **Security Engineering & Research (SER)** as part of the *Open-Source Enterprise Zero Trust Program*.  
 The project demonstrates that **cost-neutral cybersecurity maturity** can be achieved through transparency, collaboration, and engineering excellence.
