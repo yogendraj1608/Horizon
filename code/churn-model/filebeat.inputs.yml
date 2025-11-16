@@ -1,0 +1,12 @@
+- type: filestream
+  id: cdp-json-logs
+  enabled: true
+  paths:
+    - /path/to/cdp-prototype/logs/cdp_events.log
+  parsers:
+    - ndjson:
+        target: ""
+        add_error_key: true
+  fields:
+    source: cdp
+  fields_under_root: true
